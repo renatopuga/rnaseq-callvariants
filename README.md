@@ -58,7 +58,7 @@ FASTA="$GENOMEDIR/Homo_sapiens.GRCh37.75.dna.primary_assembly.fa "
 GTF="$GENOMEDIR/Homo_sapiens.GRCh37.75.gtf"
 
 # create a file with unique sample names
-ls  -1d fastq/*/*.fastq.gz |  grep  -v  "Undetermined\|PK01" | sed  -e  "s/_L00[0-4]_R[12]_001.fastq.gz//g" | sort  -Vu > FileSample
+ls  -1d fastq/*/*.fastq.gz |  grep  -v  "Undetermined" | sed  -e  "s/_L00[0-4]_R[12]_001.fastq.gz//g" | sort  -Vu > FileSample
 
 # create directory for STAR output: RNASEQ_data
 mkdir -p  RNASEQ_data
