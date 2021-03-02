@@ -10,9 +10,13 @@
 
 ## Requirements
 
+- Docker version 19.03.8
 - STAR v2.7.5c
 - RSEM v1.3.1
 - human genome GRCh37.75
+- samtools 1.10
+- vcf-merge
+- VEP ensemble v102
 
 ## Sample Information
 
