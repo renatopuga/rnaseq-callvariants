@@ -1,8 +1,6 @@
 # RNASeq and Call Variants
 > The data will be available after publication.
 
-Authors: Renato Puga and Patricia Aguiar
-
 ## Machine 
 
 - Ubuntu Desktop 20.04 LTS
