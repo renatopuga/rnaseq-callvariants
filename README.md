@@ -70,7 +70,7 @@ $STAR --runThreadN 6 \
        --sjdbOverhang 149
 ```
 
-# STAR: mapping and counting
+## Mapping and counting (STAR and RSEM)
 
 ```bash
 
