@@ -1,5 +1,7 @@
 # RNASeq and Call Variants
 
+Authors: Renato Puga, MSc and Patricia Aguiar, PhD
+
 ## TI
 - 6 cores 
 - 32GB RAM Memory
