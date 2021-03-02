@@ -1,13 +1,18 @@
 # RNASeq and Call Variants
 
-* Requirements
+## TI
+- 6 cores 
+- 32GB RAM Memory
+- 256GB SSD (/scratch) and 1TB HDD
+
+## Requirements
 
 - STAR v2.7.5c
 - RSEM v1.3.1
 - human genome GRCh37.75
 
 
-# Make References
+## Make References
 
 ```bash
 # get reference genome fasta
