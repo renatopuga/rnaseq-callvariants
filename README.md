@@ -36,7 +36,7 @@
 | PK08    | PSP       |
 | PK09    | PSP       |
 
-## Make References
+## References: Download and Compile
 
 ```bash
 # get reference genome fasta
