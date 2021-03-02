@@ -1,9 +1,11 @@
 # RNASeq and Call Variants
 
-Authors: Renato Puga, MSc and Patricia Aguiar, PhD
+Authors: Renato Puga and Patricia Aguiar
 
-## TI
-- 6 cores 
+## Machine 
+
+- Ubuntu Desktop 20.04 LTS
+- 6 cpus
 - 32GB RAM Memory
 - 256GB SSD (/scratch) and 1TB HDD
 
@@ -13,6 +15,23 @@ Authors: Renato Puga, MSc and Patricia Aguiar, PhD
 - RSEM v1.3.1
 - human genome GRCh37.75
 
+## Sample Information
+
+- TruSeq stranded mRNA 150 cycles 
+- NextSeq 550
+
+| Lineage | Phenotype |
+| ------- | --------- |
+| PK03    | Controle  |
+| PK05    | Controle  |
+| PK06    | Controle  |
+| CQ16    | Controle  |
+| PK01    | PSP       |
+| PK02    | PSP       |
+| PK04    | PSP       |
+| PK07    | PSP       |
+| PK08    | PSP       |
+| PK09    | PSP       |
 
 ## Make References
 
